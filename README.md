@@ -1,2 +1,2 @@
 # List-of-Names-in-FORTRAN
-A high school project for Processamento de Dados course at Federal University of Bahia
+A high school project for Processamento de Dados course at Federal University of Bahia. This is a very simple tool which allows the user to do some manipulations in the list like saving names, search for a name, display all current names and delete a name. Initially, the list is initialized empty and after each execution of the program, the list is saved to a file which is initialized in the next execution.
